@@ -4,13 +4,9 @@ Vault Guardian ensures your valuable notes and ideas are safe with automated, cu
 
 ![Vault Guardian Screenshot](https://github.com/hellotimking/Vault-Guardian/blob/main/settings-screenshot.png)
 
----
-
 ## Why Choose Vault Guardian? 🛡️  
 
-In Obsidian, your notes are more than just text files—they’re your ideas, research, and creativity. Vault Guardian keeps them secure, ensuring no idea gets lost to technical mishaps.  
-
----
+In Obsidian, your notes are more than just text files—they’re your ideas, research, and creativity. Vault Guardian keeps them secure, ensuring no idea gets lost to technical mishaps. Vault Guardian creates a backup of your entire vault in a timestamped zip file. Backups are saved to your chosen primary and secondary locations, with intelligent cleanup of old backups to save you space.
 
 ## Features 🌟
 
@@ -24,18 +20,9 @@ In Obsidian, your notes are more than just text files—they’re your ideas, re
 - **.Obsidian Folder Backup**: Includes your `.obsidian` folder (themes, plugins, and settings) to ensure a complete vault recovery.  
 - **Error Handling**: Get notified of issues, like missing backup paths or permissions, with detailed error messages.  
 
----
-
 ## Getting Started 🚀  
 
-### Installation  
-1. Download the plugin from the Obsidian community plugin library.  
-2. Enable it in your Obsidian settings.  
-3. Configure your backup preferences in the **Vault Guardian Settings** tab.
-
----
-
-### Configuration ⚙️  
+### Configuration ⚙️ 
 
 1. **Multiple Backup Locations**:  
    - Set a **Primary Backup Location**
@@ -53,29 +40,16 @@ In Obsidian, your notes are more than just text files—they’re your ideas, re
 5. **Next Scheduled Backup**:  
    - Monitor your next backup with a live countdown timer. (Also shown in status bar)
 
----
-
-
-## How It Works 🛠️  
-
-Simply put, Vault Guardian zips your entire vault into a timestamped zip file. Backups are saved to your chosen primary and secondary locations, with intelligent cleanup of old backups to save you space.
-
----
-
 ## Advanced Features 🔧  
   
 - **Backup Validation**: Ensures all files, including your `.obsidian` folder, are correctly added to the backup archive.
 - **Dual Retention Settings**: Independantly removes older backups based on your retention preferences for both your primary and secondary backup locations.
-
----
 
 ## Status Bar and Notifications 📊  
 
 - **Backup in Progress**: Displays `Backup: Now 🚀`.  
 - **Countdown Timer**: Shows time remaining until the next scheduled backup (e.g., `Backup: 2h 15m 30s`).  
 - **Errors**: Alerts you if issues arise, such as a missing backup location, verification issues arise,.  
-
----
 
 ## Frequently Asked Questions  
 
@@ -87,8 +61,6 @@ Yes! Set the retention count to `0` to keep all backups without cleanup.
 
 ### 3. What happens if a backup fails?  
 Vault Guardian provides detailed error messages to help troubleshoot issues.
-
----
 
 ## Support & Feedback 💬  
 
