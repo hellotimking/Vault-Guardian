@@ -6,6 +6,12 @@ Vault Guardian ensures your valuable notes and ideas are safe with automated, cu
 
 ---
 
+## Why Choose Vault Guardian? 🛡️  
+
+In Obsidian, your notes are more than just text files—they’re your ideas, research, and creativity. Vault Guardian keeps them secure, ensuring no idea gets lost to technical mishaps.  
+
+---
+
 ## Features 🌟
 
 - **Primary & Secondary Backups**: Specify separate backup locations for double-layer protection.  
@@ -17,12 +23,6 @@ Vault Guardian ensures your valuable notes and ideas are safe with automated, cu
 - **Status Bar Integration**: Always know the status of your backup with dynamic, live updates in the Obsidian status bar.  
 - **.Obsidian Folder Backup**: Includes your `.obsidian` folder (themes, plugins, and settings) to ensure a complete vault recovery.  
 - **Error Handling**: Get notified of issues, like missing backup paths or permissions, with detailed error messages.  
-
----
-
-## Why Choose Vault Guardian? 🛡️  
-
-In Obsidian, your notes are more than just text files—they’re your ideas, research, and creativity. Vault Guardian keeps them secure, ensuring no idea gets lost to technical mishaps.  
 
 ---
 
