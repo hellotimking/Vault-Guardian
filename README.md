@@ -1,6 +1,5 @@
 # Vault Guardian 🚀  
-**Your ultimate Obsidian backup companion!**  
-
+### **Your trusted backup solution for Obsidian**  
 Vault Guardian ensures your valuable notes and ideas are safe with automated, customizable, and robust backup solutions tailored to your workflow. Say goodbye to data loss and hello to peace of mind.
 
 ![Vault Guardian Screenshot](https://github.com/hellotimking/Vault-Guardian/blob/main/screenshot.png)
