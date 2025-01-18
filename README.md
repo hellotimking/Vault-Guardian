@@ -1,6 +1,6 @@
 # Vault Guardian ⛨
 ### **Your trusted backup solution for Obsidian**  
-Vault Guardian ensures your valuable notes and ideas are safe with automated, customizable, and robust backup solutions tailored to your workflow. Say goodbye to data loss and hello to peace of mind.
+Vault Guardian ensures your valuable notes and ideas are safe with automated, customisable, and robust backup solutions tailored to your workflow. Say goodbye to data loss and hello to peace of mind.
 
 ![Vault Guardian Screenshot](https://github.com/hellotimking/Vault-Guardian/blob/main/settings-screenshot.png)
 
@@ -13,7 +13,7 @@ In Obsidian, your notes are more than just text files—they’re your ideas, re
 - **Primary & Secondary Backups**: Specify separate backup locations for double-layer protection.  
 - **Custom Backup Intervals**: Automate backups from every minute to once a month.  
 - **Retention Settings**: Control the number of backups to keep in primary and secondary locations.  
-- **Compression Efficiency**: Create lightweight, high-compression `.zip` backups with customizable compression levels.  
+- **Compression Efficiency**: Create lightweight, high-compression `.zip` backups.
 - **Live Countdown Timer**: Stay updated with a real-time countdown to your next scheduled backup.  
 - **Manual Backup on Demand**: Need a quick backup? Just hit the button!  
 - **Status Bar Integration**: Always know the status of your backup with dynamic, live updates in the Obsidian status bar.  
