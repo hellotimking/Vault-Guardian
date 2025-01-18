@@ -6,7 +6,6 @@
   "compressionLevel": 9,
   "maxBackupCount": 10,
   "secondaryMaxBackupCount": 10,
-  "password": "",
   "autoBackupIntervalUnit": "days",
   "autoBackupIntervalValue": 1,
   "dailyBackupTime": "00:00"
