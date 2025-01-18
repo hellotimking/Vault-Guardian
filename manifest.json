@@ -3,7 +3,7 @@
 	"name": "Vault Guardian",
 	"version": "0.1.28",
 	"minAppVersion": "1.0.0",
-	"description": "Automatically creates scheduled, timestamped backups of your vault to multiple locations.",
+	"description": "Automatically creates scheduled backups of your vault to multiple locations.",
 	"author": "Tim King",
 	"authorUrl": "",
 	"fundingUrl": "",

@@ -47,7 +47,7 @@ In Obsidian, your notes are more than just text files—they’re your ideas, re
 
 ## Status Bar and Notifications 📊  
 
-- **Backup in Progress**: Displays `Backup: Now 🚀`.  
+- **Backup in Progress**: Displays `Backing Up Now`.  
 - **Countdown Timer**: Shows time remaining until the next scheduled backup (e.g., `Backup: 2h 15m 30s`).  
 - **Errors**: Alerts you if issues arise, such as a missing backup location, verification issues arise,.  
 
