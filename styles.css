@@ -1,0 +1,54 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+/* Custom styles for notices */
+.start-backup {
+    background-color: #df8825;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.add-files {
+    background-color: #0784c2;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.verify-files {
+    background-color: #6b07c2;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.backup-success {
+    background-color: #1e6f32;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.backup-fail {
+    background-color: #830808;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 14px;
+}
