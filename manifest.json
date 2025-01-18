@@ -1,13 +1,13 @@
 {
-	"id": "obsidian-vault-guardian",
+	"id": "vault-guardian",
 	"name": "Vault Guardian",
 	"version": "0.1.28",
 	"minAppVersion": "1.0.0",
-	"description": "Automatically creates timestamped backups for your Obsidian vault as zip files, to multiple locations.",
+	"description": "Automatically creates scheduled, timestamped backups of your Obsidian vault to multiple locations.",
 	"author": "Tim King",
 	"authorUrl": "",
 	"fundingUrl": "",
-	"isDesktopOnly": false,
+	"isDesktopOnly": true,
 	"fundingUrl": "",
 	"enableDesktopFeatures": true 
 }

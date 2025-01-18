@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-vault-guardian",
+	"name": "vault-guardian",
 	"version": "0.1.28",
-	"description": "Automatically creates timestamped backups for your Obsidian vault as zip files, to multiple locations.",
+	"description": "Automatically creates scheduled, timestamped backups of your Obsidian vault to multiple locations.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
